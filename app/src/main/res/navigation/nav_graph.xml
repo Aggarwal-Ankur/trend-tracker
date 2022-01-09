@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.dataworks.trendtracker.FirstFragment"
+        android:name="com.dataworks.trendtracker.TopTrendsFragment"
         android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        tools:layout="@layout/fragment_top_trends">
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
